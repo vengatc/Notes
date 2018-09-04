@@ -1,0 +1,6 @@
+>>Getting a dependency in mvn.
+mvn dependency:get -Dartifact=groupId:artifactId:version
+
+mvn dependency:get -Dartifact=net.jpountz.lz4:lz4:1.3.0
+ 
+ 
