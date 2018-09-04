@@ -24,3 +24,20 @@ Sending message
 
 Consuming message.
 > bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
+
+
+
+#####Debuggig kafka.
+
+Command to get the list of registered broker from zookeper
+>echo dump | nc localhost 2181 | grep brokers
+
+
+Kafka logs are stored under 
+>/tmp/kafka-logs/twitter-0/
+
+To check log content.
+>>bin/kafka-run-class.sh kafka.tools.DumpLogSegments --deep-iteration --print-data-log --files /tmp/kafka-logs/test-0/00000000000000000000.log
+
+
+
