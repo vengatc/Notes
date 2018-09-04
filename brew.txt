@@ -1,0 +1,2 @@
+To check the location of installed package
+>brew info apache-spark
