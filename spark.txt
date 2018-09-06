@@ -1,3 +1,11 @@
 Spark and Python
 -----------------------------
 https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f
+
+Dont home brew install apache spark.
+To install spark follow the steps below
+https://medium.com/@GalarnykMichael/install-spark-on-mac-pyspark-453f395f240b
+
+Do run on my machine
+source ~/.bash_profile
+juypter_notebook.
