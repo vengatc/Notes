@@ -12,3 +12,8 @@ DataPlane123
 
 Mahesh Nagaraj [3:56 PM]
 home/dataplane/extra_jars
+
+
+CDS 2.1.0 
+Spark-kafka streaming version
+Kafka 3.1.0
