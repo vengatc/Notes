@@ -1,0 +1,4 @@
+
+
+Configuring telegraf.
+https://www.influxdata.com/blog/using-telegraf-to-send-metrics-to-influxdb-and-kafka/
