@@ -1,0 +1,14 @@
+
+spark-streaming-kafka-assembly_2.10-1.6.3.jar
+
+40.118.224.123
+
+dataplane@40.118.224.123
+
+
+Vengateswaran Chandrasekaran [3:54 PM]
+DataPlane123
+
+
+Mahesh Nagaraj [3:56 PM]
+home/dataplane/extra_jars
