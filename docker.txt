@@ -1,0 +1,15 @@
+To get the logs of the docker container
+---------------------------------------
+docker logs <ContainerID> 
+
+
+To build a docker.
+docker build .
+
+Afger docker build to list the 9image in the docker.
+docker image ls
+
+To run the docker image.
+ docker run -d -p 8080:8080 ae85d904ca12
+ 
+ 
