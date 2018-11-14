@@ -26,3 +26,7 @@ To run the docker image.
  docker run --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:1.0
  
  
+ Redirect stdout using tee.
+ docker run --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:1.0 | tee -a /tmp/ublsvc.log
+ 
+ 
