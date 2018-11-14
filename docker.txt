@@ -17,4 +17,12 @@ To run the docker image.
  
  Docker RUN.
   docker run --name ublsvc ublsvc:1.0
+  
+ 
+ To find out where is the log file of a docker instance
+ docker inspect --format='{{.LogPath}}' f703b4342e30
+ 
+ To run docker with file driver
+ docker run --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:1.0
+ 
  
