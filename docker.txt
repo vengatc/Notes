@@ -13,3 +13,8 @@ To run the docker image.
  docker run -d -p 8080:8080 ae85d904ca12
  
  
+ docker image build --tag ublsvc:2.0 .
+ 
+ Docker RUN.
+  docker run --name ublsvc ublsvc:1.0
+ 
