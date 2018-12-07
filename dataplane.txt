@@ -10,3 +10,6 @@ for zookeeper list topics.
 Creating the topic on Zookeeper
 /kafka-topics --create --zookeeper 10.169.59.241:2181 --replication-factor 2 --partitions 1 --topic logs
 
+
+Consumer:
+./kafka-console-consumer --zookeeper 10.169.59.241:2181 --topic logs
