@@ -1,0 +1,3 @@
+login using  ssh dataplane@10.169.59.238 -i id_rsa  (Get key from Mahesh)
+
+/opt/cloudera/parcels/KAFKA
