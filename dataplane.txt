@@ -5,3 +5,8 @@ login using  ssh dataplane@10.169.59.238 -i id_rsa  (Get key from Mahesh)
 
 for zookeeper list topics.
 ./kafka-topics --list --zookeeper 10.169.59.241:2181
+
+
+Creating the topic on Zookeeper
+/kafka-topics --create --zookeeper 10.169.59.241:2181 --replication-factor 2 --partitions 1 --topic logs
+
