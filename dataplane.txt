@@ -1,3 +1,7 @@
 login using  ssh dataplane@10.169.59.238 -i id_rsa  (Get key from Mahesh)
 
 /opt/cloudera/parcels/KAFKA
+
+
+for zookeeper list topics.
+./kafka-topics --list --zookeeper 10.169.59.241:2181
