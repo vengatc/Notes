@@ -17,3 +17,7 @@ Consumer:
 
  kafka-console-producer --broker-list 10.169.59.239:9092,10.169.59.240:9092  --topic logs
  
+
+To get info on the topic
+./kafka-topics.sh  --describe --zookeeper 10.169.59.241:2181  --topic logs
+
