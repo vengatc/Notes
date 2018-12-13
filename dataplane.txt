@@ -49,3 +49,9 @@ __________________________________
    31  sudo yum install wget
    32  wget https://dl.influxdata.com/chronograf/releases/chronograf-1.7.4.x86_64.rpm
    33  sudo yum localinstall chronograf-1.7.4.x86_64.rpm
+   
+   
+   
+   Zeepline.
+   http://10.169.59.238:8080/#/
+   
