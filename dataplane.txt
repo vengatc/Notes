@@ -57,5 +57,5 @@ __________________________________
    
    
    Cloud era manager
-   http://10.169.59.231:7180/cmf/login
+   http://10.169.59.231:7180/cmf/login.  admin/admin
    
