@@ -59,3 +59,6 @@ __________________________________
    Cloud era manager
    http://10.169.59.231:7180/cmf/login.  admin/admin
    
+   
+   Cloudera flume configuration
+   https://www.cloudera.com/documentation/kafka/latest/topics/kafka_flume.html
