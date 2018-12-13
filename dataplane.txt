@@ -21,3 +21,7 @@ Consumer:
 To get info on the topic
 ./kafka-topics.sh  --describe --zookeeper 10.169.59.241:2181  --topic logs
 
+
+Find the verison of the linux
+cat /etc/redhat-release
+
