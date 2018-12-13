@@ -25,3 +25,27 @@ To get info on the topic
 Find the verison of the linux
 cat /etc/redhat-release
 
+
+Influx and Chronograf installation
+__________________________________
+
+    8  cat <<EOF | sudo tee /etc/yum.repos.d/influxdb.repo
+    9  cat <<EOF | sudo tee /etc/yum.repos.d/influxdb.repo
+   10  [influxdb]
+   11  name = InfluxDB Repository - RHEL \$releasever
+   12  baseurl = https://repos.influxdata.com/rhel/\$releasever/\$basearch/stable
+   13  enabled = 1
+   14  gpgcheck = 1
+   15  gpgkey = https://repos.influxdata.com/influxdb.key
+   16  EOF
+   17  sudo yum install influxdb
+   18  sudo service influxdb start
+   19  sudo systemctl start influxdb
+   20  cat  /etc/influxdb/influxdb.conf 
+   21  
+   28  influx -precision rfc3339
+   29  pwd
+   30  wget https://dl.influxdata.com/chronograf/releases/chronograf-1.7.4.x86_64.rpm
+   31  sudo yum install wget
+   32  wget https://dl.influxdata.com/chronograf/releases/chronograf-1.7.4.x86_64.rpm
+   33  sudo yum localinstall chronograf-1.7.4.x86_64.rpm
