@@ -62,3 +62,6 @@ __________________________________
    
    Cloudera flume configuration
    https://www.cloudera.com/documentation/kafka/latest/topics/kafka_flume.html
+   
+   Google vm
+   https://console.cloud.google.com/home/dashboard?authuser=1&project=sap-ariba-cobalt
