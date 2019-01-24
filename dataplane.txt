@@ -73,3 +73,7 @@ __________________________________
 https://dataplane-ariba.us2.sapanalytics.cloud/sap/fpa/ui/tenants/037/app.html#;view_id=home
 SAP Email.
 Dat****e12#
+
+https://10.14.208.33/cmc#cm/home
+Inumber
+Dat*****12#
