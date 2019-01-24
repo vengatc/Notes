@@ -15,3 +15,6 @@ https://go.sap.corp/apm.
   
   https://kxg72627.live.dynatrace.com/#hosts/hostdetails;id=HOST-CF244BF43999693A;gtf=l_2_HOURS;gf=all
   
+  
+  Produciton monitoring :https://10.14.208.33/cmc#cm/home
+  
