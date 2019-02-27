@@ -53,3 +53,6 @@ Then copy your image to a new system with regular file transfer tools such as cp
 docker load -i <path to image tar file>
 
 
+Copying file between machines
+scp -i ~/id_rsa /home/dataplane/oem/* dataplane@10.169.57.169:~/oem
+
