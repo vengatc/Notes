@@ -1,0 +1,9 @@
+
+Restarting docker
+
+service stop/start/docker
+
+
+Starting the process.
+
+sudo docker run -it -p 9999:8443 -v /home/dataplane/oem/selfsigned:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker-environment.env ff4c3df28e0b
