@@ -12,4 +12,10 @@ sudo docker run -it -p 9999:8443 -v /home/dataplane/oem/selfsigned:/usr/local/sh
 Generating self signed certificate:
 openssl req -x509 -sha256 -nodes -days 3650 -newkey rsa:4096 -keyout dataplane-lab-gw.key -out dataplane-lab-gw.pem
 openssl pkcs12 -export -out dataplane-lab-gw.p12 -inkey dataplane-lab-gw.key -in dataplane-lab-gw.pem
+Rename dataplane-lab-gw.p12  to SSLCertificate.p12
+
+Link to healt.
+https://10.169.57.16:9999/sap/fpa/remote/qbuilder/health
+
+
 
