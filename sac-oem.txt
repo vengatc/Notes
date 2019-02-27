@@ -45,3 +45,11 @@ Create pkcs12 file
 openssl pkcs12 -export -out keyStore.p12 -inkey myKey.pem -in cert.pem
 
 
+Transfer the docker image
+
+docker save -o <path for generated tar file> <image name>
+Then copy your image to a new system with regular file transfer tools such as cp or scp. After that you will have to load the image into Docker:
+
+docker load -i <path to image tar file>
+
+
