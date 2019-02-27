@@ -29,5 +29,11 @@ sac-dataplane-oem (10.169.58.112)	—	 internal
 sac-dataplane-oem-out (35.233.253.43) external
 
 
+Fresh setup
+Install docker on GCP instance
+https://runnable.com/docker/install-docker-on-linux
+
+
+
 
 
