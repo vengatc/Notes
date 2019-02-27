@@ -24,9 +24,9 @@ This is tne NEW OEM instance.
 ssh dataplane@10.169.58.112 -i id_rsa 
 
 
-ariba-cobalt-vpc	us-west1	
-sac-dataplane-oem (10.169.58.112)	—	 internal 
-sac-dataplane-oem-out (35.233.253.43) external
+nic0	ariba-cobalt-vpc	us-west1	
+dataplane-sac-oem-in (10.169.58.222)	—	
+dataplane-sac-oem-out (35.247.82.28)
 
 
 Fresh setup
