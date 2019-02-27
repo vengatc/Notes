@@ -24,14 +24,19 @@ This is tne NEW OEM instance.
 ssh dataplane@10.169.58.112 -i id_rsa 
 
 
-nic0	ariba-cobalt-vpc	us-west1	
-dataplane-sac-oem-in (10.169.58.222)	—	
-dataplane-sac-oem-out (35.247.82.28)
+
+dataplane-sac-oem-i (10.169.57.169)	—	
+dataplane-sac-oem-o (35.230.34.250)
+
+
 
 
 Fresh setup
 Install docker on GCP instance
 https://runnable.com/docker/install-docker-on-linux
+
+
+Creating selfsigned certificate
 
 
 
