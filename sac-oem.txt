@@ -20,3 +20,14 @@ https://10.169.57.16:9999/sap/fpa/remote/qbuilder/health
 
 
 
+This is tne NEW OEM instance.
+ssh dataplane@10.169.58.112 -i id_rsa 
+
+
+ariba-cobalt-vpc	us-west1	
+sac-dataplane-oem (10.169.58.112)	—	 internal 
+sac-dataplane-oem-out (35.233.253.43) external
+
+
+
+
