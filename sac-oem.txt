@@ -56,3 +56,6 @@ docker load -i <path to image tar file>
 Copying file between machines
 scp -i ~/id_rsa /home/dataplane/oem/* dataplane@10.169.57.169:~/oem
 
+https://wiki-ariba.sjc.sap.corp/display/ENGDPTS/SAP+Analytics+Cloud
+
+
