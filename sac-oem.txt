@@ -59,3 +59,8 @@ scp -i ~/id_rsa /home/dataplane/oem/* dataplane@10.169.57.169:~/oem
 https://wiki-ariba.sjc.sap.corp/display/ENGDPTS/SAP+Analytics+Cloud
 
 
+
+SAC Analytics cloud internal.
+https://master-ariba.eu2cnry.projectorca.cloud/
+
+
