@@ -1,0 +1,4 @@
+https://developers.sap.com/tutorials/hxe-gcp-getting-started-launcher-xsa.html
+
+
+https://developers.sap.com/topics/sap-hana-express.html#flowchart&url_id=CRM-XB18-DGE-SM03IP
