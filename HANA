@@ -21,3 +21,7 @@ XSA_DEV
 
 ?Hana commands
 xs target -s SAP  to switch to SAP space. 
+
+
+XSA_Cockpit, for XSA_Admin login.
+https://hxehost:51045/sap/hana/cockpit/landscape/index.html
