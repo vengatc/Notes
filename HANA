@@ -7,3 +7,12 @@ https://wiki-ariba.sjc.sap.corp/display/ENGDPTS/SAP+Analytics+Cloud
 
 
 https://developers.sap.com/tutorials/hxe-gcp-getting-started-launcher-xsa.html
+
+
+Name	Network	Subnetwork	Primary internal IP	Alias IP ranges	External IP	Network Tier 	IP forwarding	Network details
+nic0	ariba-cobalt-vpc	us-west1	dataplane-sac-hanav-i (10.169.58.221)	—	
+35.199.145.156 (ephemeral)
+Premium	
+On	
+
+Da**p**#
