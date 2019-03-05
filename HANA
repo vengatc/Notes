@@ -22,9 +22,12 @@ XSA_DEV
 ?Hana commands
 xs target -s SAP  to switch to SAP space. 
 
-Tutorials.
+
+HANA - Tutorials.
 
 https://developers.sap.com/tutorials/xsa-tenant-db-space.html
+https://developers.sap.com/tutorials/hxe-gcp-getting-started-launcher-xsa.html
+https://developers.sap.com/tutorials/xsa-explore-basics.html
 
 
 
