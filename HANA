@@ -57,3 +57,7 @@ DATAPLANE - >Dataplane123
 
 Dataplane xs admin
 https://dataplane-sac-hana.gcp.ariba.com:4390/sap/hana/xs/admin/#/package/sap
+
+Webdisapacher host
+https://help.sap.com/viewer/815752c952f84bb7bce2b23d506d870a/1.0.5.0/en-US/4802ae47b4b041e6a214cad02f5c591f.html
+http://hxehost:8090/sap/hana/xs/admin/
