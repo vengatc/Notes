@@ -49,8 +49,11 @@ Creating calculation view
 
 https://developers.sap.com/group.hana-xsa-calculation-view-modeling.html
 
-https://hxehost:4390/sap/hana/xs/wdisp/admin - admin for https enabled
+https://dataplane-sac-hana.gcp.ariba.com:4390/sap/hana/xs/admin - admin for https enabled
 
 https://hxehost:4390/sap/bc/ina/service/v2/GetServerInfo
 
 DATAPLANE - >Dataplane123
+
+Dataplane xs admin
+https://dataplane-sac-hana.gcp.ariba.com:4390/sap/hana/xs/admin/#/package/sap
