@@ -38,6 +38,9 @@ https://hxehost:51045/sap/hana/cockpit/landscape/index.html
 For database explorer
 https://hxehost:51045/sap/hana/cst/catalog/index.html
 
+
+
+
 HXA Advance runtime
 https://hxehost:39030/
 H?XE
@@ -93,5 +96,8 @@ This works after creating the data base use on the tenant database, with the DAT
 
 
 
+
+Calculation View.
+http://www.kodyaz.com/sap-abap/create-calculation-view-on-sap-hana-studio.aspx
 
 3.
