@@ -73,6 +73,25 @@ https://hxehost:4090/sap/bc/ina/service/v2/GetServerInfo
 
 Create a user DATAPLANE in HXE and assign required privileges
 
-xsengine.ini. add the external url and port.
+
 
 https://dataplane-sac-hana.gcp.ariba.com:4390/sap/bc/ina/service/v2/GetServerInfo
+
+
+Two main thing to follow to setup GetServerInfo
+
+1. https://wiki-ariba.sjc.sap.corp/display/ENGDPTS/SAP+Analytics+Cloud?preview=/84420154/84420600/SAC_to_HANA_Live_connection_config_steps%231.docx
+2. https://blogs.sap.com/2018/01/30/establishing-the-live-hana-on-premise-connection-from-sap-analytics-cloud-using-cors/
+3. https://blogs.sap.com/2017/11/02/configure-information-access-in-hana-express-to-connect-from-lumira-or-analysis-for-office/
+
+Additi9onal create DATAPlane user on HXE and assign the required privileges. 
+xsengine.ini. add the external url and port. http://dataplane-sac-hana:8090.
+
+
+http://dataplane-sac-hana.gcp.ariba.com:8090/sap/hana/xs/wdisp/admin/public/default.html
+This works after creating the data base use on the tenant database, with the DATAPLANE user and password.
+
+
+
+
+3.
