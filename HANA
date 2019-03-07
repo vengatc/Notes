@@ -69,3 +69,8 @@ https://i7p.wdf.sap.corp/sap(bD1lbiZjPTAwMQ==)/bc/bsp/sno/ui_entry/entry.htm?par
 
 http://hxehost:8090/sap/bc/ina/service/v2/GetServerInfo
 https://hxehost:4090/sap/bc/ina/service/v2/GetServerInfo
+
+
+Create a user DATAPLANE in HXE and assign required privileges
+
+xsengine.ini. add the external url and port.
