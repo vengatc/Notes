@@ -6,9 +6,9 @@ service stop/start/docker
 
 Starting the process.
 
-sudo docker run -it -p 9999:8443 -v /home/dataplane/oem/ssl_internal_official:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker-environment.env ff4c3df28e0b
 
 
+sudo docker run -idt -p 8888:8443 -v /home/dataplane/oem/ssl_internal_official:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker-environment.env ff4c3df28e0b
 
 Generating self signed certificate:
 openssl req -x509 -sha256 -nodes -days 3650 -newkey rsa:4096 -keyout dataplane-lab-gw.key -out dataplane-lab-gw.pem
@@ -62,5 +62,4 @@ https://wiki-ariba.sjc.sap.corp/display/ENGDPTS/SAP+Analytics+Cloud
 
 SAC Analytics cloud internal.
 https://master-ariba.eu2cnry.projectorca.cloud/
-
 
