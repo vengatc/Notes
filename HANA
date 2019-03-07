@@ -74,3 +74,5 @@ https://hxehost:4090/sap/bc/ina/service/v2/GetServerInfo
 Create a user DATAPLANE in HXE and assign required privileges
 
 xsengine.ini. add the external url and port.
+
+https://dataplane-sac-hana.gcp.ariba.com:4390/sap/bc/ina/service/v2/GetServerInfo
