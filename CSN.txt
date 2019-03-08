@@ -1,0 +1,2 @@
+1. Why is RAMUP tenant not mapped to tenant in SAC.
+2. Can we post multiple CSN file for the Same tenant does it aggregate.
