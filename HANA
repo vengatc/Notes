@@ -103,3 +103,9 @@ https://sapstudent.com/hana/privileges-required-for-a-modeler-in-sap-hana
 Calculation view privileges, assign _SYS_REPO to the user.assign SELECT Privileges and give grant access.
 
 https://launchpad.support.sap.com/#/notes/2502174 - SSL Cert setup on HANA.
+
+
+
+HANA Certificate Issue
+----------------------
+
