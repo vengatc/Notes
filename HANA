@@ -112,3 +112,9 @@ https://launchpad.support.sap.com/#/notes/2502174
 https://blogs.sap.com/2018/08/23/hana-2.0-cockpit-certificate-issues-and-resolution/
 
 
+Installing certificate.
+1. XSA Admin failed to start.
+
+
+XSA set-certificate domain –cert chain.cer –key uekey.pk8 
+
