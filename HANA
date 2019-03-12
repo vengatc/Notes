@@ -119,3 +119,7 @@ Installing certificate.
 XSA set-certificate domain –cert chain.cer –key uekey.pk8 
 XSA reset-certificate - restored it.
 
+
+https://dataplane-sac-hana.gcp.ariba.com:4390/sap/bc/ina/service/v2/GetServerInfo
+With selfsigned.
+
