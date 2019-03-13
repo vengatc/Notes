@@ -123,3 +123,7 @@ XSA reset-certificate - restored it.
 https://dataplane-sac-hana.gcp.ariba.com:4390/sap/bc/ina/service/v2/GetServerInfo
 With selfsigned.
 
+http://www.kodyaz.com/sap-abap/sap-hana-hdbsql-command-examples.aspx
+for HdBSQL.
+
+
