@@ -66,3 +66,10 @@ https://master-ariba.eu2cnry.projectorca.cloud/
 
 https://dataplane-sac-oem.gcp.ariba.com:8888/sap/fpa/remote/qbuilder/health
 
+
+SAC integration app specs.
+List of integration services. These are the ones that need to be passed through the Gateway/App router. - https://jam4.sapjam.com/wiki/show/uJEvHGb0HsM6MHf3bOmEGN
+              Tenant configuration service (to return the tenant specific DB details) - https://jam4.sapjam.com/wiki/show/Z6Fi8p5ul0H9dwSo7439rm
+              Metadata service (that returns the CSN metadata ) - 
+https://jam4.sapjam.com/wiki/show/PdA2VgqsadXYBiUs41ghho
+              
