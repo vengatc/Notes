@@ -84,3 +84,8 @@ Integration service APIs - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/23+Int
 CSN Model. https://wiki.wdf.sap.corp/wiki/display/OrcaDev/02+Metadata+CSN+Model
 
 
+
+Authentication OAUTH.
+https://blog.scottlogic.com/2015/11/19/oauth2-with-saml2.html
+
+
