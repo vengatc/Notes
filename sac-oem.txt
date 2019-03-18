@@ -74,10 +74,9 @@ https://wiki.wdf.sap.corp/wiki/display/OrcaDev/98+SAC+Integration+Services+Runbo
 SAC integration app specs.
 List of integration services. These are the ones that need to be passed through the Gateway/App router. - 
 
-https://jam4.sapjam.com/wiki/show/uJEvHGb0HsM6MHf3bOmEGN
-              Tenant configuration service (to return the tenant specific DB details) - 
-              
-https://jam4.sapjam.com/wiki/show/Z6Fi8p5ul0H9dwSo7439rm
-              Metadata service (that returns the CSN metadata ) - 
-https://jam4.sapjam.com/wiki/show/PdA2VgqsadXYBiUs41ghho
-              
+https://wiki.wdf.sap.corp/wiki/display/OrcaDev/02+Integration+Adapter+Architecture+and+Design
+https://wiki.wdf.sap.corp/wiki/display/OrcaDev/13+LoB+Adapter+Concept
+
+Metadata service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Metadata+Services
+Tenant configuration service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Tenant+configuration+service
+Integration service APIs - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/23+Integration+service+APIs
