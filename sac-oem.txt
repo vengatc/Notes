@@ -81,4 +81,6 @@ Metadata service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Metadata+Servi
 Tenant configuration service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Tenant+configuration+service
 Integration service APIs - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/23+Integration+service+APIs
 
+CSN Model. https://wiki.wdf.sap.corp/wiki/display/OrcaDev/02+Metadata+CSN+Model
+
 
