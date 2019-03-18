@@ -87,5 +87,6 @@ CSN Model. https://wiki.wdf.sap.corp/wiki/display/OrcaDev/02+Metadata+CSN+Model
 
 Authentication OAUTH.
 https://blog.scottlogic.com/2015/11/19/oauth2-with-saml2.html
+https://wiki.wdf.sap.corp/wiki/pages/viewpage.action?pageId=1899477609
 
 
