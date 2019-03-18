@@ -80,3 +80,5 @@ https://wiki.wdf.sap.corp/wiki/display/OrcaDev/13+LoB+Adapter+Concept
 Metadata service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Metadata+Services
 Tenant configuration service - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Tenant+configuration+service
 Integration service APIs - https://wiki.wdf.sap.corp/wiki/display/OrcaDev/23+Integration+service+APIs
+
+
