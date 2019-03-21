@@ -90,3 +90,7 @@ https://blog.scottlogic.com/2015/11/19/oauth2-with-saml2.html
 https://wiki.wdf.sap.corp/wiki/pages/viewpage.action?pageId=1899477609
 
 
+HTTPs cert installation place.
+http://dataplane-sac-hana.gcp.ariba.com:8090/sap/hana/xs/wdisp/admin/public/default.html
+
+
