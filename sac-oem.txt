@@ -94,3 +94,7 @@ HTTPs cert installation place.
 http://dataplane-sac-hana.gcp.ariba.com:8090/sap/hana/xs/wdisp/admin/public/default.html
 
 
+Analytical privileges.
+https://help.sap.com/viewer/b3ee5778bc2e4a089d3299b82ec762a7/2.0.03/en-US/4dd2e50ede0541ee9f46dff64a55b142.html
+
+
