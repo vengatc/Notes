@@ -112,3 +112,6 @@ select * from PURCHASEORDER_REPORT_VIEW;
 5a4068a84207 -> latest image to be used.
 
 
+sudo docker run -idt -p 8888:8443 -v /home/dataplane/oem/ssl_internal_official:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker-environment.env ff4c3df28e0b
+
+
