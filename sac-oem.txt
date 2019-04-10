@@ -109,3 +109,6 @@ select * from PURCHASEORDER_REPORT_VIEW;
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
+5a4068a84207 -> latest image to be used.
+
+
