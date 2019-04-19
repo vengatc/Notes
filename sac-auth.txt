@@ -1,5 +1,9 @@
 Initial docs.
 
+Setting up UAA:
+https://dzone.com/articles/spring-boot-2-applications-and-oauth-2-setting-up
+
+
 https://aaronparecki.com/oauth-2-simplified/
 https://www.baeldung.com/cloud-foundry-uaa
 https://dzone.com/articles/spring-boot-2-applications-and-oauth-2-legacy-appr?fromrel=true
