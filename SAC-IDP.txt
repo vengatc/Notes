@@ -1,1 +1,9 @@
 
+IDP Setup instruction.
+https://sapsac-admin.okta.com/app/saporg320004_aribanetwork_1/0oaicvf6zPfWDqXPy356/setup/help/SAML_2_0/instructions
+
+SAML Setup okta.
+https://developer.okta.com/standards/SAML/setting_up_a_saml_application_in_okta/
+
+OKTA user console.
+https://sapsac-admin.okta.com/admin/app/saporg320004_aribanetwork_1/instance/0oaicvf6zPfWDqXPy356#tab-assignments
