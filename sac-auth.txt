@@ -8,3 +8,7 @@ https://aaronparecki.com/oauth-2-simplified/
 https://www.baeldung.com/cloud-foundry-uaa
 https://dzone.com/articles/spring-boot-2-applications-and-oauth-2-legacy-appr?fromrel=true
 https://docs.cloudfoundry.org/concepts/architecture/uaa.html#local
+
+
+
+https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/ https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO
