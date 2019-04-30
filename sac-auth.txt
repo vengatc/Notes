@@ -12,3 +12,13 @@ https://docs.cloudfoundry.org/concepts/architecture/uaa.html#local
 
 
 https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/ https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO
+
+
+
+https://rel-ariba-apps-platform-2.eu2cnry.projectorca.cloud?saml2idp=http%3A%2F%2Fwww.okta.com%2Fexkicvf6yZaMVEAIP356&useIdpBehindProxy=false&samlVerifyLogin=true
+
+
+Blog on SSO SETUP
+
+[4/30/19, 2:03:32 PM] Komma, Abhishek: https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/ <https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/>
+[4/30/19, 2:03:55 PM] Komma, Abhishek: https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO <https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO>
