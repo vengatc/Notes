@@ -22,3 +22,7 @@ Blog on SSO SETUP
 
 [4/30/19, 2:03:32 PM] Komma, Abhishek: https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/ <https://blogs.sap.com/2017/07/24/sso-setup-for-sap-analytics-cloud-using-okta-as-an-identity-provider/>
 [4/30/19, 2:03:55 PM] Komma, Abhishek: https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO <https://wiki.wdf.sap.corp/wiki/display/OrcaDev/Connection+and+SAML+SSO#ConnectionandSAMLSSO-SAMLSSO>
+
+
+
+com.sap.orca.remote.qbuilder.oem.ariba_network.authorization.ANRemoteAuthentication - Code.
