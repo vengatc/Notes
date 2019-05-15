@@ -30,11 +30,13 @@ To run the docker image.
  docker run --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:1.0 | tee -a /tmp/ublsvc.log
  
  
- docker run -p8080:8080 --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:1.0 | tee -a /tmp/ublsvc.log
+ docker run -p8080:8080 --log-driver json-file --log-opt max-size=10m --name ublsvc ublsvc:2.0 | tee -a /tmp/ublsvc.log
  
  
  How to attach to a docker process
  docker exec -i -t ublsvc /bin/bash
+ 
+ 
  
  
  
