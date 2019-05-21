@@ -118,3 +118,9 @@ https://wiki.wdf.sap.corp/wiki/display/OrcaDev/01+How+to+create+a+CSN+File+by+Ja
 CSNGenerationCode
 
 
+SAC oem reverse proxy to devfarm instructions
+
+• export http_proxy=10.163.3.125:443
+• export https_proxy=10.163.3.125:443
+• curl http://devfarm.aws.ariba.com/…
+
