@@ -128,3 +128,7 @@ SAC oem reverse proxy to devfarm instructions
 Lastest OEM
 2926169fabb4
 
+
+sudo sudo docker run  -e HTTP_PROXY=10.163.3.125:443 -e HTTPS_PROXY=10.163.3.125:443 -it -p 8888:8443 -v /home/dataplane/oem/ssl_internal_official:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker_environment_with_intgsvc.env 2926169fabb4
+
+
