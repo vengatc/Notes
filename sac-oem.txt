@@ -132,3 +132,6 @@ Lastest OEM
 sudo sudo docker run  -e HTTP_PROXY=10.163.3.125:443 -e HTTPS_PROXY=10.163.3.125:443 -it -p 8888:8443 -v /home/dataplane/oem/ssl_internal_official:/usr/local/share/ca-certificates/ssl-certs --env-file ./docker_environment_with_intgsvc.env 2926169fabb4
 
 
+
+to put sert.
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.212.b04-0.el7_6.x86_64/jre/lib/security/cacerts
