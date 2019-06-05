@@ -135,3 +135,7 @@ sudo sudo docker run  -e HTTP_PROXY=10.163.3.125:443 -e HTTPS_PROXY=10.163.3.125
 
 to put sert.
 /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.212.b04-0.el7_6.x86_64/jre/lib/security/cacerts
+
+d /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.212.b04-0.el7_6.x86_64/jre/lib/security/
+  802  ls ~/oem/awsaribacom.crt 
+  803  keytool -import -file /home/dataplane/oem/awsaribacom.crt -keystore cacerts  -storepass “changeit”
