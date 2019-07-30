@@ -143,3 +143,8 @@ d /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.212.b04-0.el7_6.x86_64/jre/lib/security/
   
   OEM Self executable.
   http://nexus.wdf.sap.corp:8081/nexus/content/repositories/deploy.snapshots/com/sap/orca/remote/orca-remote-selfexecutable/
+  
+  
+  SAML Flow
+  https://wiki.wdf.sap.corp/wiki/display/OrcaDev/SAML+Standard+Authentication
+  
