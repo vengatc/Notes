@@ -1,0 +1,2 @@
+https://int.controlcenter.ondemand.com/index.html Globalaccount
+https://account.int.sap.eu2.hana.ondemand.com/cockpit/#/home/allaccounts cockpit 
