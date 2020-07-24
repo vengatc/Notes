@@ -1,0 +1,11 @@
+[1:54 PM] Kamath, Karthik
+    let me check
+​[1:58 PM] Kamath, Karthik
+    
+https://github.wdf.sap.corp/Ariba-rta/AnalyticsMetadata-Utility/blob/AnalyticsMetadata-Utility/RTA-MetadataFiles.zip
+​[1:59 PM] Kamath, Karthik
+    if we download this, then go in `DistributedQueryServiceMetadata` folder
+​[1:59 PM] Kamath, Karthik
+    here two file: DQSS4Tables_Metadata.json and DQSSSPTables_Metadata.json
+​[2:00 PM] Kamath, Karthik
+    in these jsons the field "entityName" will give us the cluster roots that participate
