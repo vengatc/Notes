@@ -9,3 +9,10 @@ https://medium.com/@GalarnykMichael/install-spark-on-mac-pyspark-453f395f240b
 Do run on my machine
 source ~/.bash_profile
 juypter_notebook.
+
+
+Spark learning resource
+https://sundog-education.com/spark-scala/
+
+Spark datasets 
+https://grouplens.org/datasets/movielens/
