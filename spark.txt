@@ -16,3 +16,8 @@ https://sundog-education.com/spark-scala/
 
 Spark datasets 
 https://grouplens.org/datasets/movielens/
+
+Spark submit command
+./bin/spark-submit --class org.apache.spark.examples.SparkPi --conf spark.driver.host=localhost --master local ./examples/jars/spark-examples_2.12-3.0.3.jar
+
+--conf spark.driver.host=localhost  is need to avoid localhost ip failure. 
