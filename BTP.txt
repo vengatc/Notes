@@ -3,6 +3,9 @@ Anything relelated to the BTP will be contained here.
 us30-ses-v2-sac-ois is the OIS
 us30-ses-v2-mds-sacintegration
 
+
+LOGGING_LEVEL_COM_SAP_CDS=DEBUG need to be set for debug on service. 
+
 The SAClogin
 https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount/1731effa-c3aa-4a52-8295-5bc579fc98cc/subaccount/35dd4df4-acb8-4001-a309-9d7b7cb7daa3
 
