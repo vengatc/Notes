@@ -2,3 +2,4 @@ https://github.wdf.sap.corp/ariba-dataplatform
 
 InvoicePolicy
 https://github.wdf.sap.corp/ariba-dataplatform/prism-dac-management/blob/master/dac-app/dcls/sct/basePolicies.dcl
+https://github.wdf.sap.corp/ariba-dataplatform/prism-schema-evolution-service-btp/blob/develop/db/dac/sap/sct/invoice-line-item-protected.cds
