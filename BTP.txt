@@ -16,3 +16,5 @@ Whis is the repo for this?
 BTP Training.
 https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=3877975625
 
+https://learning.sap.com/learning-journey/discover-sap-business-technology-platform
+
