@@ -21,3 +21,10 @@ Spark submit command
 ./bin/spark-submit --class org.apache.spark.examples.SparkPi --conf spark.driver.host=localhost --master local ./examples/jars/spark-examples_2.12-3.0.3.jar
 
 --conf spark.driver.host=localhost  is need to avoid localhost ip failure. 
+
+
+
+
+
+Community edition of data bricks - https://community.cloud.databricks.com/recents?o=2318436477874040
+Spark code : https://github.com/databricks/LearningSparkV2
